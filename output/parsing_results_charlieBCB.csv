@@ -1,0 +1,45 @@
+sentence,np,vp,pp,score
+"us- biaus peoxzheox -himherthem deospiaux heshethey- deox bouxsiauf EndOfText
+","['ACCPREF DW NW ACCSUFF', 'NOMPREF DW NW']",['ACCPREF DW NW ACCSUFF VW'],[],0.3888888888888889
+"us- kiaush giaupkaz doushsiaux -himherthem kuv -one us- biaus dixsiv -himherthem kiausxis heshethey- beot dashxoux beoshbeox EndOfText
+",[],[],[],1.0
+"us- keox pukxis -many -himherthem pouf -s pousfazh dag dag duxzazh goutzizh us- biaus gifduz poukxiaux -himherthem kuv -one peokzhaf heshethey- biaus giaushkouf bif EndOfText
+",[],[],[],1.0
+"us- beot bapzus goufpouzh -himherthem poukzhix heshethey- deox deotshax goussuf EndOfText
+","['NOMPREF DW AW NW', 'ACCPREF DW AW NW ACCSUFF']",[],[],0.18181818181818182
+"us- keox peopduf -himherthem poukxouf heshethey- kut tashxough EndOfText
+","['ACCPREF DW NW ACCSUFF', 'NOMPREF DW NW']",['ACCPREF DW NW ACCSUFF VW'],[],0.3888888888888889
+"us- keob deofsouv bikpax -himherthem diaush -one us- deox boutsaz gaxkiaux -many -himherthem dapsheof heshethey- touf bustough kiautzhav us- dag douktiauzh beoshbeox -himherthem daz -one us- kut teopteov -many -himherthem tufdouf heshethey- touf gupzheozh us- keox peoxzheox -himherthem tiaug -one gouxghif heshethey- keox gouxdiauf dutpiaugh dizh EndOfText
+",[],[],[],1.0
+"us- deox bouxsiauf boushsazh -himherthem kuv -one us- keox kiautzhav -many -himherthem tufdouf heshethey- dag tixbuv EndOfText
+","['ACCPREF DW NW PSUFF ACCSUFF', 'NOMPREF DW NW']",['ACCPREF DW NW PSUFF ACCSUFF VW'],[],0.20588235294117646
+"us- kut dixbeosh -himherthem daz -one us- keox doutpeos -many -himherthem dough -s us- dag gouxzeozh dikzhizh -himherthem gushgas heshethey- keob beotbav diauz EndOfText
+","['ACCPREF DW NW PSUFF ACCSUFF', 'ACCPREF DW AW NW ACCSUFF', 'ACCPREF DW NW ACCSUFF', 'NOMPREF DW NW']",['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW AW NW ACCSUFF VW'],"['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL', 'ACCPREF DW NW ACCSUFF PW PREPSUFFSG']",0.2708333333333333
+"us- diauv dakbaz -himherthem giauz -one dixdush heshethey- deox bapzax teopteov dizh EndOfText
+","['NOMPREF DW AW NW', 'ACCPREF DW NW ACCSUFF']",['ACCPREF DW NW ACCSUFF PW PREPSUFFSG VW'],['ACCPREF DW NW ACCSUFF PW PREPSUFFSG'],0.3076923076923077
+"us- keox buxveogh piautguzh -many -himherthem poukxagh heshethey- touf gouxdiauf keob us- keox gaxkiaux -himherthem kufsiauz heshethey- touf tousseox bishvough EndOfText
+","['NOMPREF DW AW NW', 'ACCPREF DW NW ACCSUFF']","['ACCPREF DW NW ACCSUFF VW', 'VW']",[],0.23809523809523808
+"us- deox disfuv -himherthem pakzheogh heshethey- deox beoxziaus pafviaugh us- deox kiautxeos -himherthem kouv -one toushdeov heshethey- touf kitkiaush us- dag kafviaus -himherthem boushduf heshethey- touf dutghugh pukxis EndOfText
+","['NOMPREF DW AW NW', 'ACCPREF DW NW ACCSUFF', 'NOMPREF DW NW']","['ACCPREF DW NW ACCSUFF VW', 'ACCPREF DW NW ACCSUFF PW PREPSUFFSG VW']",['ACCPREF DW NW ACCSUFF PW PREPSUFFSG'],0.22413793103448276
+"us- deox pipdiauv keotshiauf -many -himherthem kouv -s poutkish heshethey- kut toupzizh gapsax us- kiaush goupfiauz kukdiauz -himherthem daz -one us- dag dakfough dixbeosh -himherthem gatdish heshethey- keob goutzizh us- keox gaxkiaux -many -himherthem tiaug -s us- touf keotgiauz -many -himherthem diauxfiaush heshethey- keob toutpeos us- deox kiautzhav -many -himherthem tiaug -s gaxzhas heshethey- deox gupzheozh kouf EndOfText
+","['ACCPREF DW NW PSUFF ACCSUFF', 'NOMPREF DW AW NW', 'ACCPREF DW AW NW ACCSUFF', 'ACCPREF DW AW NW PSUFF ACCSUFF', 'NOMPREF DW NW']","['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL VW', 'ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW NW PSUFF ACCSUFF VW', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL VW', 'ACCPREF DW AW NW ACCSUFF VW']","['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL']",0.20689655172413793
+"us- kut tipgash kukdiauz -himherthem tiaug -one us- keob disfuv -himherthem kiaukzhiauv heshethey- deox peopbuz diauz EndOfText
+","['ACCPREF DW AW NW ACCSUFF', 'ACCPREF DW NW ACCSUFF', 'NOMPREF DW NW']",['ACCPREF DW AW NW ACCSUFF PW PREPSUFFSG ACCPREF DW NW ACCSUFF VW'],['ACCPREF DW AW NW ACCSUFF PW PREPSUFFSG'],0.29411764705882354
+"us- keob teoxxeos EndOfText
+",[],[],[],0.0
+"boushduf heshethey- keox gaxkiaux EndOfText
+",['NOMPREF DW NW'],['VW'],[],0.5
+"us- touf toufxash -many -himherthem dud -s us- biaus gatzhav keotgiauz -himherthem titshuzh heshethey- keob piauxshouz EndOfText
+",[],[],[],1.0
+"us- deox doufshis -himherthem giauz -one us- touf pouxshough -many -himherthem kuskaf heshethey- kut gouxghif dixkiauzh us- keob kiautxeos -himherthem kouv -one us- keox buxxouf -himherthem dutghugh heshethey- keox dixbaz koushpiaus us- kiaush toufxash -many -himherthem daz -s us- keob puksux tashxough -himherthem poushzheof heshethey- diauv bittazh EndOfText
+",[],[],[],1.0
+"us- keox peoxbeox biaukkazh -many -himherthem kuv -s us- kiaush kaptax doufshis -himherthem geokgouz heshethey- deox tiausdiz doufshis us- keox beoshsis goutzizh -himherthem gitzhizh heshethey- kut deofsouv gisteos us- deox gashzeof bukzhuzh -himherthem daz -one us- keox duxzazh peopduf -many -himherthem tiaufshis heshethey- keob teokdiauz us- keox diauxpiz doutpeos -himherthem dud -one us- biaus bapzax teoxxoush -himherthem biauktugh heshethey- kiaush gouxpouv bittazh us- deox doutzhus -many -himherthem tiaug -s us- keox dakbaz -himherthem daspav heshethey- deox kiautzhax bittazh us- touf daxtiaugh gaxkiaux -many -himherthem kuv -s us- touf boutsiaush -many -himherthem poukxagh heshethey- kiaush pashgeogh gaxkiaux us- dag dixsiv -many -himherthem diauxfiaush heshethey- deokseof touf gapsax EndOfText
+","['ACCPREF DW NW PSUFF ACCSUFF', 'NOMPREF DW AW NW', 'ACCPREF DW AW NW ACCSUFF', 'ACCPREF DW NW ACCSUFF', 'ACCPREF DW AW NW PSUFF ACCSUFF']","['ACCPREF DW AW NW ACCSUFF PW PREPSUFFSG ACCPREF DW AW NW ACCSUFF VW', 'ACCPREF DW AW NW ACCSUFF PW PREPSUFFSG ACCPREF DW AW NW PSUFF ACCSUFF VW', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW AW NW ACCSUFF VW', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW NW PSUFF ACCSUFF VW']","['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL', 'ACCPREF DW AW NW ACCSUFF PW PREPSUFFSG', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL']",0.11682242990654206
+"us- keox teoxxeos -himherthem daz -one beotbav heshethey- keox kafviaus us- keox koutbux dixkiauzh -many -himherthem daz -s us- dag ditkouzh -himherthem pouxshough heshethey- deox boutsiaush us- keob tashxough -himherthem kouv -one doutghouf heshethey- biaus gisdiauz doutzhus tuk EndOfText
+","['NOMPREF DW AW NW', 'ACCPREF DW NW ACCSUFF', 'ACCPREF DW AW NW PSUFF ACCSUFF', 'NOMPREF DW NW']",['ACCPREF DW NW ACCSUFF PW PREPSUFFSG VW'],"['ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL', 'ACCPREF DW NW ACCSUFF PW PREPSUFFSG']",0.16666666666666666
+"us- keob doufxiaux -many -himherthem daz -s us- keox bikpax -himherthem pouf -one kiaupvough heshethey- deox toupzizh piautgav EndOfText
+","['ACCPREF DW NW PSUFF ACCSUFF', 'NOMPREF DW AW NW', 'ACCPREF DW NW ACCSUFF']",['ACCPREF DW NW ACCSUFF PW PREPSUFFSG VW'],"['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL', 'ACCPREF DW NW ACCSUFF PW PREPSUFFSG']",0.2894736842105263
+"us- biaus goussuf -many -himherthem daz -s us- keox keotvash -many -himherthem touffough heshethey- keox peotdis EndOfText
+",['ACCPREF DW NW PSUFF ACCSUFF'],['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW NW PSUFF ACCSUFF VW'],['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL'],0.17647058823529413
+"us- keob tipgash keotgiauz -many -himherthem tiaug -s us- keob goupxuz -himherthem peotdis heshethey- keob tousseox kiautxeos us- keob bikpax -himherthem kaxpiaus heshethey- biaus doutpeos us- keob dixkiauzh -many -himherthem pouf -s us- touf pafviaugh -himherthem kuskaf heshethey- kiaush peoxbeox gisteos EndOfText
+","['ACCPREF DW NW PSUFF ACCSUFF', 'NOMPREF DW AW NW', 'ACCPREF DW NW ACCSUFF', 'ACCPREF DW AW NW PSUFF ACCSUFF', 'NOMPREF DW NW']","['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW NW ACCSUFF VW', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL ACCPREF DW NW ACCSUFF VW']","['ACCPREF DW NW PSUFF ACCSUFF PW PREPSUFFPL', 'ACCPREF DW AW NW PSUFF ACCSUFF PW PREPSUFFPL']",0.21428571428571427

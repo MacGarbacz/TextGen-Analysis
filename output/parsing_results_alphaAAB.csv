@@ -1,0 +1,21 @@
+sentence,np,vp,pp,score
+"gas dufsix then butziauf kux dishkiaugh dishkiaugh kitvux pap gud s tiautshas s now toukkeogh s piaux diausgagh s tufpiauz s piaupgeos s gazh piaux bapvax s will then piaug s EndOfText
+","['DW NW', 'DW PSUFF NW PSUFF']",['PREFPAST VW'],[],0.109375
+"dab geofshush then dutxas piaux piausfouf tutghoux geogh doutdis toupvouz s piaupfiv s duxveozh s EndOfText
+",['DW NW'],['PREFPAST VW DW NW'],[],0.15625
+"gud s bishgagh s diauxshash s will diaukzux s pazh biauftus EndOfText
+","['DW NW', 'DW PSUFF NW PSUFF AW PSUFF']",['PREFFUT VW PSUFF DW NW'],[],0.2916666666666667
+"gud s taxdagh s dazh gud guxfis will toukzhiaus piaux s piaupfiv s EndOfText
+",[],[],[],1.0
+"gud pap kuftas s EndOfText
+",[],[],[],0.0
+"geogh diauxghouf now ditveov koutxiauzh buttugh keof kab pazh tiautsav guzh piaux s goutzhax s now tafsheos s gud geofpis keotvoux bish kashdough dufsix gishtouv duk pis bakzash takdif will diaushziauv piaug pis geofshush deoz kiaug kousxiv will tiautsheosh keof bouz s koukvux s kikvouzh s pap bouz kitvux now deoz teof pis kiautpeozh teoxzhiauzh beofpough pap bouz dixxif geot piaux tiausxav then geokkash s gas s biaupduf s deoz gud diauxghouf then takdif bizh piaug s gufghis s now doutdis s piaug teofzax gasbagh pazh kashpax bish kiaug piaupgeos now diautghiauv pazh geoxvix piautduv dab papsiaux kagh piaug deokpiv doutdis EndOfText
+","['DW NW', 'DW PSUFF NW PSUFF', 'DW PSUFF NW PSUFF AW PSUFF', 'DW NW AW']","['PREFPRES VW DW NW AW', 'PREFPRES VW PSUFF DW NW AW', 'PREFPAST VW', 'PREFPRES VW', 'PREFFUT VW PW DW PSUFF NW PSUFF AW PSUFF']","['PW DW NW', 'PW DW PSUFF NW PSUFF AW PSUFF', 'PW DW NW AW']",0.12745098039215685
+"piaug kitvux now gipsax goutkav bouz bapvax beosvax keof kiaug piaupgeos deokpiv now piautghiz bish pis poupghix boukteof now kiaukgas s gaxdiauzh taxdagh EndOfText
+","['DW NW', 'DW NW AW']",['PREFPRES VW PW DW NW'],['PW DW NW'],0.16666666666666666
+"piaux gufghis now teofbuf piaux pap doupveox s gipsax s koufzheof s now peopfoux s piaug s tuktif s EndOfText
+","['DW NW', 'DW PSUFF NW PSUFF']",[],[],0.1
+"piaug kashpax piauffiauv will pishgazh pouz dab katviaux tiautkuv tatfeov geot gas taxdagh kikvouzh EndOfText
+",['DW NW AW'],['PREFFUT VW PW DW NW'],['PW DW NW'],0.2
+"gud s kiautpeozh s dafsous s will tutghoux s geogh geogh s piaug s beofpough s EndOfText
+",['DW PSUFF NW PSUFF'],[],[],0.058823529411764705

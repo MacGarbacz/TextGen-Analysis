@@ -1,0 +1,201 @@
+sentence,np,vp,pp,score
+"geoxduv dab kuftas kuftas this- kishfav -the EndOfText
+",[],['VW'],[],0.1875
+"geogh sole- daskazh this- buttugh -uyu pouz piaux many- tashfigh these- peopfoux dab many- koufzheof these- tatxuzh -the kiaupsiaus dab many- toupshus these- guxfis -the EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW'],['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC'],0.19230769230769232
+"bouz sole- tapgiauf this- diaufsheos -the tatzhouzh geogh sole- tukzugh this- koukvux bouz sole- touptouzh this- toupvouz -the -u dip buffuz piaux sole- diauxgheosh this- doupdash geot EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT'],0.19642857142857142
+"pazh sole- gipsax this- toupghouz tapfugh dab sole- puxvouf this- dab -the kiaug sole- teofbuf this- geofvas -the goushghas piaux sole- boushtuf this- gufgeogh EndOfText
+",[],[],[],1.0
+"geogh sole- keokzeoz this- douxgish -u kux gud sole- pisbazh this- tiautkuv gas dab many- tapgiauf these- dakxigh -the piaux many- gishtouv these- toupvouz -u bish bixzhoush geogh many- dikdis these- kiaukgas bizh EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD PLPREFA AW PLPREFN NW DATSUFF PWDAT VW'],"['INDEFD PLPREFA AW PLPREFN NW DATSUFF PWDAT', 'INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT']",0.16176470588235295
+"geogh sole- geokkash this- deokpiv -u keof gissaz piaux many- toupgeosh these- diaufkiaus pazh many- kuftas these- bakzash kiaupsiaus pazh sole- geokkash this- tiautfiaus geox EndOfText
+","['INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']","['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT VW', 'INDEFD PLPREFA AW PLPREFN NW VW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.21153846153846154
+"geogh many- kifgheozh these- biaupduf -u kux piaug sole- gipsax this- piaupgeos -the dab sole- dipsuz this- bapvax -the keofpeozh pis many- giauptav these- goufxizh -the tiaushtous sole- bouz this- taxdagh -the gud sole- tattough this- diaufkiaus -u teof gud sole- geosziz this- dakxigh piaufsizh pazh many- koukdazh these- gishkiaugh geox EndOfText
+",[],[],[],1.0
+"pis sole- dipsuz this- geofshush -the -u bish pazh sole- beofpough this- katviaux duk pazh sole- biaufpuf this- douxzouzh pazh sole- kifvagh this- katviaux piaug sole- boushfoux this- piaupgeos -the dafsous geogh sole- diautpux this- bafvugh dazh EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT'],0.10526315789473684
+"gasbagh geogh sole- koufzheof this- kukgish EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],['VW'],[],0.35714285714285715
+"piaug many- tashfigh these- piauppoush -the bukgheos pazh sole- dishkeof this- kishfav bouz sole- dishkeof this- keoxdus -the -u teof gas sole- tukfazh this- kiautpeozh diautghiauv gas sole- bouppiaush this- beossiz pap EndOfText
+",[],[],[],1.0
+"dab sole- diauszav this- peoxsouz -the koushtuv pazh sole- tukzugh this- kukgish EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],[],0.2692307692307692
+"pazh many- dikdis these- bikxaf -uyu kagh buffuz pis sole- diauxshash this- beosshoux -the gas sole- beofghuz this- tutghoux kouppouf bouz sole- geokkash this- dixxif -the deoz EndOfText
+",[],[],[],1.0
+"sole- bouxpas this- kashpax -the pis sole- boutvoush this- geofvas -the koutxiauzh gas sole- beosvax this- peofdiaush geogh many- pazh these- tukfax tiaufziaus pazh sole- biautziz this- buttugh geot EndOfText
+",[],[],[],1.0
+"EndOfText
+",[],[],[],0.0
+"piaug sole- geofbish this- teofzax -the -uyu kagh gas sole- koukdugh this- bapvax peotdaf pazh many- puxvouf these- kashpax EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC INDEFD SGPREFA AW SGPREFN NW VW'],['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.25
+"gud many- bouppiaush these- katviaux tiaushtous piaux many- tukzugh these- koukvux EndOfText
+",[],[],[],1.0
+"tiaushtous gas many- teoshvouf these- doushviaugh piaug many- dukzhazh these- tuktif -the -uyu dak tiaushtous piaux many- diauxgheosh these- kashpax kiaug many- kikvouzh these- deofzash -the -uyu pouz buffuz piaux many- piautduv these- kushfush geox EndOfText
+",[],[],[],1.0
+"pazh many- deopghus these- keoxdus gas sole- datpeozh this- tuktif -u bish tafsheos geogh many- tatfeov these- diaufkiaus pazh sole- giauptav this- gakzhiaus -u teof ditveov piaux sole- deopxis this- poufghus deoz EndOfText
+","['INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.12121212121212122
+"dab sole- duftiauf this- biaupduf -the -uyu duk goukzhish gas many- keokzeoz these- diaushziauv EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC VW'],['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.26666666666666666
+"bouz many- biaufpuf these- piaufsizh -the -u teof gas sole- deopxis this- tiaupdouv tushshough geogh sole- diaufshuz this- piausfouf EndOfText
+",[],[],[],1.0
+"bouz many- diaufshuz these- kukgish -the piz EndOfText
+",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX'],[],[],0.125
+"piaug sole- diauxshash this- gaxdiauzh -the -u dip bipkeoz dab many- toukkeogh these- giaukzhiaus -the kiaug sole- baxkiz this- goutzhax -the -u dip pazh many- tashfigh these- giaukzhiaus duk kiaug sole- boushfoux this- poupghix -the guzh EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT VW'],['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT'],0.13513513513513514
+"boushkaz bouz sole- gipsax this- gufgeogh -the EndOfText
+",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX'],['VW'],[],0.3125
+"pazh sole- giauptav this- tuxpeos -u keof butziauf piaux sole- diautpux this- diaufsheos gud sole- diautpux this- dakxigh -u teof geogh sole- diaukvuf this- keoxdus biaufgiv pazh many- biautziz these- keoxdus bizh EndOfText
+",[],[],[],1.0
+"piaux sole- biaushshuv this- biautshiauv -u teof piaug sole- kiaushkush this- tatxuzh -the sole- geogh this- keokfeos geogh EndOfText
+",[],[],[],1.0
+"pis many- kiaushkush these- keoxdus -u duk kiaug sole- gishtouv this- bapvax -the poutteozh geogh sole- daskazh this- douxzouzh EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],[],0.175
+"buxkouv geogh sole- piauffiauv this- gakzhiaus gatsheov geogh sole- datpeozh this- geofvas geot EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],"['INDEFD SGPREFA AW SGPREFN NW VW', 'VW']",[],0.2857142857142857
+"daktazh geogh sole- teotzhiaush this- beopvuf pis sole- deosbeos this- poufgiauv -the -uyu kab gas sole- teoshvouf this- tuxpeos gud sole- duk this- bouz many- touptouzh these- biauftus -the gazh EndOfText
+",[],[],[],1.0
+"geogh sole- geofbish this- peopfoux -uyu kagh bipkeoz geogh many- diaukvuf these- dufsix pis many- peopdeof these- kitvux -the -uyu duk kux pazh sole- kuftas this- diaufkiaus teot EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC VW'],"['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC', 'DEFD PLPREFA AW PLPREFN NW DEFSUFFIX ACCSUFF PWACC']",0.1896551724137931
+"geogh sole- tifxif this- gufghis -u keof pazh sole- beofghuz this- gufghis doutdis geogh sole- giauptav this- doushtus pazh sole- datpeozh this- -uyu dak gud sole- koukdazh this- bikxaf tushshough geogh sole- kifvagh this- tukfax geox EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT INDEFD SGPREFA AW SGPREFN NW VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.08108108108108109
+"geogh sole- tashfigh this- peokzhous -u dip gas many- beofpough these- gishkiaugh diautghiauv geogh many- biauxzhiz these- peoxsouz EndOfText
+","['INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT INDEFD PLPREFA AW PLPREFN NW VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.21052631578947367
+"gas sole- diautpux this- douxzouzh -uyu kab guzh geogh sole- bisgeozh this- gishkiaugh kiaug sole- kipziauzh this- tushbouf -the -uyu kab teot piaug beoshpagh many- guzh these- bakzash -the geox EndOfText
+",[],[],[],1.0
+"geogh many- keokzeoz these- douxgish piaug sole- kipziauzh this- boufbash -the bafvugh geogh many- bupbiaush these- geofvas geox EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],[],0.18421052631578946
+"pazh many- teotzhiaush these- dakxigh pazh sole- tashfigh this- goutzhax kixdiaush gas sole- geofvas this- tiautshas bouz sole- toukkeogh this- toupvouz -the -uyu duk gutviz piaux many- gufvuf these- tiausxav geox EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']","['INDEFD SGPREFA AW SGPREFN NW VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC VW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.203125
+"piaux sole- tashghus this- diautdagh -u keof piaux sole- tatzhouzh this- taxsash boushkaz dab many- tapgiauf these- goufxizh -the EndOfText
+",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX'],['VW'],[],0.125
+"pazh sole- boushfoux this- kousxiv -u teof buffuz gas sole- koukdugh this- dushkaz daktazh geogh sole- deosbeos this- dakxigh teot EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],"['INDEFD SGPREFA AW SGPREFN NW VW', 'INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT VW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.21428571428571427
+"pazh sole- datpeozh this- baxzheos -u teof EndOfText
+",[],[],[],1.0
+"gas sole- tukfazh this- taftuz daktazh piaux sole- kipziauzh this- gakzhiaus kiaug sole- diauxgheosh this- tuxpeos -the diautghiauv bouz many- puxvouf these- gishkiaugh -the geox EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']","['INDEFD SGPREFA AW SGPREFN NW VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW']",[],0.23076923076923078
+"piaux many- tifxif these- dishkiaugh -u teof gas sole- diautpux this- pazh many- beofpough these- bakzhaf gasbagh geogh sole- piaux this- toutsheosh deoz EndOfText
+",[],[],[],1.0
+"kiaug sole- piauffiauv this- kushfush -the guffav gud many- geoxsiz these- dukzoux EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],[],0.2692307692307692
+"piaug sole- koukdazh this- tushbouf -the -u bish dutxas pazh many- biaushshuv these- geokghix -u piaux piaux sole- teotzhiaush this- deokpiv boukteof piaux sole- duftiauf this- katviaux teot EndOfText
+",[],[],[],1.0
+"pazh sole- pazh this- tiautfiaus -u keof pissiv dab sole- deosbeos this- poupghix -the kiaug many- diauxgheosh these- douxzouzh -the -u dip diausgagh pazh sole- diauxgheosh this- diaushpeof geox EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']",['VW'],['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX DATSUFF PWDAT'],0.13333333333333333
+"geogh many- diaukzux these- piausfouf piaug sole- gixghush this- toupghouz -the -uyu pouz boukteof piaux many- bisgouf these- tiausxav dab sole- bisgeozh this- diaufkiaus -the kiaupsiaus dab sole- keokzeoz this- geosbeos -the dazh EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC VW', 'VW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.20588235294117646
+"pazh sole- bisgouf this- tiaupdouv -u kux piaux sole- gishtouv this- goutzhax goushghas geogh many- piauffiauv these- biauftus EndOfText
+","['INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT INDEFD SGPREFA AW SGPREFN NW VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.21052631578947367
+"geogh sole- toupgeosh this- keoxdus -u teof kashdough bouz sole- kifgheozh this- doushviaugh -the EndOfText
+",[],[],[],1.0
+"pazh sole- tukfazh this- geosbeos pissiv geogh sole- dufsix this- biauftus EndOfText
+",[],[],[],1.0
+"geot many- goupdugh these- teofzax dab sole- keokfeos this- geofvas -the beofveox bouz many- bupbiaush these- tufxiaux -the EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW', 'VW']",[],0.2631578947368421
+"bouz many- tukzugh these- douksagh -the diautghiauv bouz many- gusghouf these- kashpax -the bouz sole- keotvoux this- kushfush -the -uyu pouz gas sole- deosbeos this- tutghoux doufzhiauz geogh many- gatdux these- diausgagh geox EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC INDEFD SGPREFA AW SGPREFN NW VW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.22058823529411764
+"dab many- touptouzh these- diauxghouf -the -u keof piaug sole- bipkeoz this- geoxvix -the bouxzheof dab sole- duftiauf this- tuxpeos -the EndOfText
+",[],[],[],1.0
+"kashzheov geogh many- kuftas these- bishgagh EndOfText
+",['INDEFD PLPREFA AW PLPREFN NW'],['VW'],[],0.35714285714285715
+"geogh sole- koukdazh this- buttugh -u teof bixzhoush gas sole- piaux this- buttugh boutvoush geogh sole- giauptav this- diaufsheos dazh EndOfText
+",[],[],[],1.0
+"bouxzheof geogh many- peopdeof these- giaukzhiaus EndOfText
+",['INDEFD PLPREFA AW PLPREFN NW'],['VW'],[],0.35714285714285715
+"bouz sole- biauxzhiz this- keoxdus -the piauxvuv pis sole- pipfeogh this- geofshush -the EndOfText
+",[],[],[],1.0
+"puxfiauf pis sole- tukfazh this- dishkiaugh -the EndOfText
+",[],[],[],1.0
+"geogh sole- tukfazh this- guxfis -uyu dak -uyu gas sole- pikfus this- goutzhax tiaushtous gas many- tattough these- tutghoux EndOfText
+",[],[],[],1.0
+"dab sole- tuskeox this- kushfush -the -u bish -uyu kagh bouz many- beofghuz these- gufghis -the bupgheos dab sole- koukdazh this- tixsheof -the pis sole- diaufshuz this- beopvuf -the -uyu pouz -u duk piaux many- poushshuzh these- keoxdus boutvoush geogh many- teoshvouf these- geofvas geot EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW', 'INDEFD PLPREFA AW PLPREFN NW VW']","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT']",0.15217391304347827
+"guffav gud sole- geokkash this- bakzash EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],['VW'],[],0.35714285714285715
+"pazh sole- tuskeox this- geofvas -uyu pouz kiaug many- dab these- boufbash -the pazh sole- kipziauzh this- doushtus -the tashghus gas sole- touptouzh this- tiautkuv piz EndOfText
+",[],[],[],1.0
+"gas many- pipfeogh these- teofzax -uyu dak dab sole- deopghus this- keoxdus -the geot EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']",[],['INDEFD PLPREFA AW PLPREFN NW ACCSUFF PWACC'],0.16666666666666666
+"gishtouv geogh sole- diaukvuf this- papsiaux EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],[],[],0.14285714285714285
+"dab sole- giaushghaf this- diaufkiaus -the taxsash pis many- tattough these- toupvouz -the EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],[],0.25
+"geot EndOfText
+",[],[],[],1.0
+"gas sole- koufdeosh this- bapvax piaug sole- bishzhash this- doushtus -the gatsheov dab many- toupgeosh these- douxzouzh -the EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW', 'VW']",[],0.2631578947368421
+"pis sole- diaushpeof this- tutghoux -the bapfeosh piaug sole- tashfigh this- douxgish -the geogh sole- biaushshuv this- gakzhiaus -uyu kab gud sole- bisgouf this- biaupduf dishxaf pazh sole- tattough this- deoz EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']","['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC INDEFD SGPREFA AW SGPREFN NW VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW']",['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC'],0.171875
+"geogh sole- koufzheof this- diauktoux -uyu pouz piaux sole- tuxvough this- teokpough -u kux -u bish gas sole- deosshiauf this- gufghis koushtuv geogh sole- tukfazh this- peokzhous pazh sole- peopdeof this- piausfouf -u teof gud sole- gixghush this- beopvuf -uyu pouz teot EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],['INDEFD SGPREFA AW SGPREFN NW VW'],"['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC', 'INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT']",0.08139534883720931
+"biaufgiv pis many- koufzheof these- tiautfiaus -the geot EndOfText
+",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX'],['VW'],[],0.2777777777777778
+"pis many- geofbish these- diaufkiaus -the -uyu pouz pis sole- baxkiz this- kashpax -the pap EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']",[],['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.15625
+"peotdaf pis many- toupgeosh these- kishfav -the EndOfText
+",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX'],['VW'],[],0.3125
+"geogh sole- sole- this- this- diauktoux -u kux kiaug sole- biaushpax this- kousxiv -the boukteof gas sole- biautziz this- poufghus gas sole- piauffiauv this- piauppoush -u teof koutxiauzh piaux many- kifvagh these- doupveox tiaushtous geox EndOfText
+",[],[],[],1.0
+"pis sole- diautpux this- diauxghouf -the -u kux piaux many- kiaug these- kukgish bapfeosh pazh many- tukzugh these- tiautkuv EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']",['VW'],['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX DATSUFF PWDAT'],0.2
+"gas many- peopdeof these- tuxpeos -u teof geogh sole- giaushghaf this- gufghis pakvuzh bouz sole- kutbuv this- geofvas -the piaux sole- biauxzhiz this- toupghouz dab sole- piauffiauv this- tuxpeos -the piaux sole- tashfigh this- diaushziauv -u kux gas sole- deopxis this- poufghus bouxzheof geogh sole- piautduv this- tiautshas geot EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']","['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT INDEFD SGPREFA AW SGPREFN NW VW', 'INDEFD PLPREFA AW PLPREFN NW DATSUFF PWDAT INDEFD SGPREFA AW SGPREFN NW VW']","['INDEFD PLPREFA AW PLPREFN NW DATSUFF PWDAT', 'INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT']",0.14
+"pissiv gas many- tuxvough these- buttugh pis many- dupfush these- toutsheosh -the -uyu pouz -uyu kagh pis many- datpeozh these- gakzhiaus -the diautghiauv dab many- bupbiaush these- geox -the teot EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW']","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW', 'VW']",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.1774193548387097
+"EndOfText
+",[],[],[],0.0
+"piaux sole- dikdis this- geosbeos -u kux piaux sole- diaufshuz this- douxgish kisshouz dab sole- teofbuf this- tiaupdouv -the EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT INDEFD SGPREFA AW SGPREFN NW VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.2
+"geogh sole- diautpux this- gufghis -u dip -u geogh bupgheos pazh sole- koukdazh this- geofvas geogh sole- gishtouv this- diauktoux keof kiaug many- geosziz these- tukfax -the geox EndOfText
+",[],[],[],1.0
+"gud sole- bisgeozh this- deokpiv -u keof guffav pis many- pikfus these- koupzouz -the pis sole- kiaushkush this- poufgiauv -the teof bouz many- biaushshuv these- dufsix -the geox EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.1724137931034483
+"dab sole- diauxshash this- diauxghouf -the -u kiaug dab many- kifgheozh these- toupvouz -the gutviz piaug many- biaushshuv these- doupdash -the EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW'],[],0.1590909090909091
+"piaux sole- keoppagh this- douxzouzh piz pis many- dazh these- dixxif -the EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],[],[],0.07692307692307693
+"geogh sole- tiaushtous this- doushviaugh deofzash pis sole- tuxvough this- teofzax -the EndOfText
+",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX'],['VW'],[],0.19230769230769232
+"pazh sole- giaushghaf this- biauftus -uyu pouz bouz sole- diauxshash this- kousxiv -the gutviz pazh many- kuftas these- teofzax EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC'],0.25
+"geogh sole- giaushghaf this- bakzash kisshouz pazh sole- dukzhazh this- deokpiv EndOfText
+",[],[],[],1.0
+"piaux sole- doupdouz this- toukkigh -u kux beofveox gud sole- bisgeozh this- dishkiaugh -the EndOfText
+",[],[],[],1.0
+"tafsheos gas sole- giauptav this- gishkiaugh piaux sole- biaushshuv this- tutghoux -u keof dab sole- many- these- -the -the gutviz gas sole- toufghiaush this- piausfouf deoz EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],['VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.1111111111111111
+"goushghas geogh sole- pazh this- dixxif pis sole- kiauxsif this- piausfouf -the gud sole- touptouzh this- biauftus doufzhiauz pazh sole- bisgouf this- tiausxav deoz EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']","['INDEFD SGPREFA AW SGPREFN NW VW', 'VW']",[],0.2
+"dip piaux sole- kutbuv this- tatxuzh tafsheos gas sole- keoppagh this- teofzax EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],['INDEFD SGPREFA AW SGPREFN NW VW'],[],0.19230769230769232
+"piaux many- baxkiz these- dukzoux -u bish dab sole- puxvouf this- geofvas -the teot pazh sole- teoshvouf this- tixsheof kouppouf pazh sole- gatdux this- peoxsouz piz EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW VW'],['INDEFD PLPREFA AW PLPREFN NW DATSUFF PWDAT'],0.18518518518518517
+"geogh sole- kifgheozh this- gufgeogh -u bish bouxzhous piaux many- gishtouv these- kukgish EndOfText
+","['INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT VW'],['INDEFD SGPREFA AW SGPREFN NW DATSUFF PWDAT'],0.2857142857142857
+"bouz sole- doupdouz this- diaushziauv -the -uyu pouz geogh many- teoxzhiauzh these- buttugh many- these- these- kiaug sole- dixxif -the gufghis geogh sole- tattough this- gufghis pis sole- bisgouf this- tushbouf -the gitghuv piaux many- doupdouz these- koupzouz dazh EndOfText
+",[],[],[],1.0
+"pazh sole- tifghuv this- doushviaugh -uyu pouz boukteof piaux many- kutbuv these- geofvas EndOfText
+","['INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC VW'],['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC'],0.2857142857142857
+"gud many- bisgouf these- tiautshas daxfuv pazh sole- kikvouzh this- diaufsheos bouz sole- diaufshuz this- tushbouf -the -uyu pouz poutteozh bouz many- duxveozh these- peoxsouz -the gazh EndOfText
+",[],[],[],1.0
+"geogh many- keotvoux these- gakzhiaus -uyu kagh bouz sole- gusghouf this- piaupgeos -the gutviz pis many- gipsax these- biaupduf -the geogh many- keokzeoz these- gufgeogh -u kux buffuz piaux sole- touptouzh this- tiausxav teot EndOfText
+",[],[],[],1.0
+"goushgus dab sole- toufghiaush this- diauktoux -the piaug many- beoshpagh these- gaxdiauzh -the -uyu kagh guffav bouz many- duxveozh these- kukgish -the deoz EndOfText
+",[],[],[],1.0
+"pazh sole- tuskeox this- diaushziauv -uyu duk duk pazh sole- dishkeof this- doushtus dab many- boushtuf these- poufgiauv -the -uyu pouz pazh many- peopdeof these- gishkiaugh guzh EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'INDEFD PLPREFA AW PLPREFN NW', 'INDEFD SGPREFA AW SGPREFN NW']",[],"['INDEFD SGPREFA AW SGPREFN NW ACCSUFF PWACC', 'DEFD PLPREFA AW PLPREFN NW DEFSUFFIX ACCSUFF PWACC']",0.14285714285714285
+"piaug sole- teoxzhiauzh this- diaushziauv -the -uyu duk kiaug sole- giaushghaf this- tushbouf -the bouz sole- keoppagh this- diauxghouf -the tiaushtous geogh sole- daskazh this- kitvux EndOfText
+","['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX', 'INDEFD SGPREFA AW SGPREFN NW']",['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW'],['DEFD SGPREFA AW SGPREFN NW DEFSUFFIX ACCSUFF PWACC'],0.14814814814814814
+"bouz sole- deopxis this- keoxdus -the dishxaf bouz many- deosbeos these- koukvux -the dishxaf piaug many- dipsuz these- toutsheosh -the guzh EndOfText
+","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX']","['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW', 'DEFD SGPREFA AW SGPREFN NW DEFSUFFIX VW']",[],0.22727272727272727
+"dab sole- toupshus this- diauktoux -the -u kux piaug many- gixghush these- teofzax -the koushtuv geogh sole- kifvagh this- tiaupdouv EndOfText
+",[],[],[],1.0
+"gas sole- teoshvouf this- piauppoush -u pis koushtuv dab many- daskazh these- toutsheosh -the geogh many- deopghus these- piauppoush goushghas geogh sole- datpeozh this- tutghoux deoz EndOfText
+",[],[],[],1.0
+"pazh sole- gisziauf this- giaukzhiaus dazh EndOfText
+",['INDEFD SGPREFA AW SGPREFN NW'],[],[],0.14285714285714285
+"bouz many- baxkiz these- giaukzhiaus -the peotdaf pis many- biauxzhiz these- dukzoux -the EndOfText
+",['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX'],['DEFD PLPREFA AW PLPREFN NW DEFSUFFIX VW'],[],0.17857142857142858
+"guzh piaug sole- diaufshuz this- gishkiaugh -the piaux sole- biaushshuv this- piaupgeos pazh many- gatdux these- diauktoux guzh EndOfText
+",[],[],[],1.0

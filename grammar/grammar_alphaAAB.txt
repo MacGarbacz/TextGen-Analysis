@@ -1,0 +1,422 @@
+#Grammar file for Lg alpha
+#Vocab = A
+#Morphology = A
+#syntax = A
+
+#Syntax A: 
+#S -> NP VP; 
+#S -> S conj S;
+#NP -> D N (A/PP); 
+#VP -> V (NP/PP); 
+#PP -> P NP
+
+#Morphology A: 
+#suffixing number agreement in NPs, 
+#suffixing subj/verb number agreement
+#prefixing verb tense
+#?start: sentence
+
+sentence: ss2 _W_ END
+      |ss1 _W_ END
+
+#Sentences can have either singular or plural subj/verb agreement
+ss1: nps _W_ vps
+ |npp _W_ vpp
+ 
+ss2: ss1 _W_ CW _W_ ss1
+
+#Singular nps have no morphology; 
+#plurals have plural suffixes on all words
+#WN: np never used?
+np: nps
+ |npp
+
+nps: DW _W_ NW _W_ AW
+ |DW _W_ NW
+
+npp: DW _W_ PSUFF _W_ NW _W_ PSUFF _W_ AW _W_ PSUFF
+ |DW _W_ PSUFF _W_ NW _W_ PSUFF
+
+#singular agreeing vps have no suffixes; 
+#plural vps have plural suffixes on verb
+vp: vpp
+ |vps
+
+vps: vw _W_ np
+ |vw _W_ pp
+ |vw _W_ np _W_ pp
+ |vw
+ 
+vpp: vw _W_ PSUFF _W_ np
+ |vw _W_ PSUFF _W_ pp
+ |vw _W_ PSUFF _W_ np _W_ pp
+ |vw _W_ PSUFF
+ 
+#All vps have either a past, present, or future prefix on the verb
+vw: PREFPRES _W_ VW
+ |PREFPAST _W_ VW
+ |PREFFUT _W_ VW
+
+
+pp: PW _W_ np
+
+#Morphology: prefixes and suffixes
+PREFPRES: "now"
+PREFPAST: "then"
+PREFFUT: "will"
+
+PSUFF: "s"	
+
+#If sentence fails, we can try to see if it contains correct phrases
+
+#To find a phrase successfully which may be followed by anything at all
+ANYTHING : /.+/
+
+nps_any: nps _W_ ANYTHING
+npp_any: npp _W_ ANYTHING
+vps_any: vps _W_ ANYTHING
+
+#find subject disagreement
+npp_vps: npp _W_ vps
+nps_vpp: nps _W_ vpp
+
+#Word roots
+PW: "dak"
+ |"kagh"
+ |"pouz"
+ |"kab"
+ |"duk"
+ |"teof"
+ |"keof"
+ |"kux"
+ |"bish"
+ |"dip"
+DW: "piaug"
+ |"kiaug"
+ |"dab"
+ |"pis"
+ |"bouz"
+ |"piaux"
+ |"geogh"
+ |"gas"
+ |"gud"
+ |"pazh"
+CW: "piz"
+ |"guzh"
+ |"geox"
+ |"bizh"
+ |"teot"
+ |"dazh"
+ |"geot"
+ |"pap"
+ |"gazh"
+ |"deoz"
+NW: "tiautfiaus"
+ |"diautdagh"
+ |"goutzhax"
+ |"giaukzhiaus"
+ |"buttugh"
+ |"tatxuzh"
+ |"taxdagh"
+ |"keoxdus"
+ |"toupghouz"
+ |"teokpough"
+ |"geofvas"
+ |"piaupgeos"
+ |"biaupduf"
+ |"gifvush"
+ |"dixxif"
+ |"tixsheof"
+ |"kitvux"
+ |"peoxsouz"
+ |"gishkiaugh"
+ |"poufgiauv"
+ |"dufsix"
+ |"diauktoux"
+ |"tuxpeos"
+ |"tiautkuv"
+ |"gufsiauz"
+ |"gufghis"
+ |"biautshiauv"
+ |"tukfax"
+ |"toupvouz"
+ |"beopvuf"
+ |"piauppoush"
+ |"dushkaz"
+ |"kishfav"
+ |"kiaukgas"
+ |"bikxaf"
+ |"biaukbav"
+ |"tushbouf"
+ |"geokghix"
+ |"peofdiaush"
+ |"bishgagh"
+ |"douxgish"
+ |"peokzhous"
+ |"dakxigh"
+ |"baxzheos"
+ |"gufgeogh"
+ |"tutghoux"
+ |"piausfouf"
+ |"papsiaux"
+ |"toutsheosh"
+ |"bakzash"
+ |"peopsuzh"
+ |"poupghix"
+ |"tiaupdouv"
+ |"biauftus"
+ |"diaufkiaus"
+ |"dukzoux"
+ |"piaupfiv"
+ |"poufghus"
+ |"diaushziauv"
+ |"peopfoux"
+ |"diaufsheos"
+ |"dishkiaugh"
+ |"toukkigh"
+ |"gakzhiaus"
+ |"gaxdiauzh"
+ |"geofshush"
+ |"geosghav"
+ |"diauxghouf"
+ |"bapvax"
+ |"tiautsav"
+ |"tuktif"
+ |"goufxizh"
+ |"kukgish"
+ |"guxfis"
+ |"teofzax"
+ |"doupveox"
+ |"taftuz"
+ |"kiautpeozh"
+ |"koupzouz"
+ |"koukvux"
+ |"deokpiv"
+ |"kashpax"
+ |"katviaux"
+ |"diausgagh"
+ |"doushtus"
+ |"tiausxav"
+ |"tiautshas"
+ |"doushviaugh"
+ |"geofpis"
+ |"kushfush"
+ |"doupdash"
+ |"kousxiv"
+ |"geosbeos"
+ |"beosshoux"
+ |"bakzhaf"
+ |"douksagh"
+ |"geoxvix"
+ |"boufbash"
+ |"douxzouzh"
+ |"tufxiaux"
+VW: "tiaufziaus"
+ |"taxsash"
+ |"tiaushtous"
+ |"dakvuv"
+ |"bouxzheof"
+ |"peoktix"
+ |"biaufgiv"
+ |"kiaupsiaus"
+ |"dutviz"
+ |"gashsush"
+ |"bukgheos"
+ |"tapfugh"
+ |"kixdiaush"
+ |"goutvugh"
+ |"bafdouz"
+ |"tafsheos"
+ |"boushkaz"
+ |"bouxzhous"
+ |"teotghiaush"
+ |"dipzax"
+ |"takdif"
+ |"pufxash"
+ |"doufzhiauz"
+ |"kisshouz"
+ |"puxfiauf"
+ |"dapgheogh"
+ |"gutviz"
+ |"doutdis"
+ |"toukzhiaus"
+ |"deossough"
+ |"touskiauzh"
+ |"butziauf"
+ |"keossheogh"
+ |"goutkav"
+ |"diautghiauv"
+ |"goushgus"
+ |"ditveov"
+ |"tashghus"
+ |"bixzhoush"
+ |"pakvuzh"
+ |"tatzhouzh"
+ |"goukzhish"
+ |"dafsous"
+ |"gitghuv"
+ |"gouxpeosh"
+ |"guffav"
+ |"tusshiauf"
+ |"geoxduv"
+ |"pishgazh"
+ |"koushtuv"
+ |"tisdiaux"
+ |"peotdaf"
+ |"kashzheov"
+ |"dishxaf"
+ |"tiautsheosh"
+ |"koutxiauzh"
+ |"beoshpagh"
+ |"bixsaz"
+ |"tixgheof"
+ |"beofveox"
+ |"goupdugh"
+ |"gissaz"
+ |"ditzuzh"
+ |"kashdough"
+ |"pissiv"
+ |"piautghiz"
+ |"koufdeosh"
+ |"beossiz"
+ |"biauxbugh"
+ |"puksiaugh"
+ |"pitbiaush"
+ |"dutxas"
+ |"dapxif"
+ |"buffuz"
+ |"boutvoush"
+ |"piaufsizh"
+ |"buxkouv"
+ |"gatsheov"
+ |"bafvugh"
+ |"gasbagh"
+ |"keofpeozh"
+ |"goushghas"
+ |"poutteozh"
+ |"gaxzoush"
+ |"bouxpas"
+ |"geostus"
+ |"piauxvuv"
+ |"kouppouf"
+ |"boukteof"
+ |"bapfeosh"
+ |"bikpigh"
+ |"bipkeoz"
+ |"diaukzux"
+ |"tufpiauz"
+ |"deofzash"
+ |"tushshough"
+ |"daxfuv"
+ |"taszheosh"
+ |"daktazh"
+ |"bupgheos"
+AW: "gatdux"
+ |"dishkeof"
+ |"bisgeozh"
+ |"deopghus"
+ |"pukkouv"
+ |"kuftas"
+ |"teotzhiaush"
+ |"duftiauf"
+ |"dashfix"
+ |"gixghush"
+ |"biaushpax"
+ |"geosziz"
+ |"gashsuzh"
+ |"boushtuf"
+ |"diaufshuz"
+ |"pisbazh"
+ |"bishzhash"
+ |"tattough"
+ |"puxvouf"
+ |"pipfeogh"
+ |"biaushshuv"
+ |"koukdugh"
+ |"dupfush"
+ |"pikfus"
+ |"giauptav"
+ |"teoxzhiauzh"
+ |"tukzugh"
+ |"tatfeov"
+ |"kiauxsif"
+ |"keokzeoz"
+ |"deopxis"
+ |"giaushghaf"
+ |"touptouzh"
+ |"daskazh"
+ |"gipsax"
+ |"beofpough"
+ |"teoshvouf"
+ |"duxveozh"
+ |"tuxvough"
+ |"goushpagh"
+ |"keokfeos"
+ |"geoxsiz"
+ |"gisziauf"
+ |"biauxzhiz"
+ |"deosbeos"
+ |"toufghiaush"
+ |"tikshoux"
+ |"piauffiauv"
+ |"kipziauzh"
+ |"guszhouf"
+ |"diauxshash"
+ |"bouppiaush"
+ |"kikvouzh"
+ |"toukkeogh"
+ |"deosshiauf"
+ |"tatzous"
+ |"biaufpuf"
+ |"kifvagh"
+ |"tuskeox"
+ |"dipsuz"
+ |"tapgiauf"
+ |"beosvax"
+ |"kiaushkush"
+ |"kifgheozh"
+ |"keoppagh"
+ |"toupgeosh"
+ |"teofbuf"
+ |"tashfigh"
+ |"tifghuv"
+ |"diauxgheosh"
+ |"piautduv"
+ |"gusghouf"
+ |"poushshuzh"
+ |"geokkash"
+ |"datpeozh"
+ |"biautziz"
+ |"geofbish"
+ |"diaushpeof"
+ |"keotvoux"
+ |"bupbiaush"
+ |"baxkiz"
+ |"gufvuf"
+ |"tukfazh"
+ |"kutbuv"
+ |"diautgheov"
+ |"diauszav"
+ |"tifxif"
+ |"toupshus"
+ |"koufzheof"
+ |"bisgouf"
+ |"beofghuz"
+ |"dukzhazh"
+ |"gishtouv"
+ |"boushfoux"
+ |"peopdeof"
+ |"koukdazh"
+ |"doupdouz"
+ |"diautpux"
+ |"diaukvuf"
+ |"dikdis"
+
+_W_: (" " | /\t/ )+
+END: "EndOfText"
+            
+
+
+%import common.WS
+%ignore WS
+
